@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_description">Enhance your gaming experience</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="common_hint_search_here">Search here</string>
+
+    <string name="common_message_already_grant_permission">You\'ve already grant the permission</string>
+    <string name="common_message_five_heroes_only">Only 5 heroes can be added</string>
+    <string name="common_message_please_grant_permission">Please grant permission first</string>
+    <string name="common_message_fetching_data">fetching data&#8230;</string>
+    <string name="common_message_permission_denied">Permission denied</string>
+    <string name="common_message_permission_granted">Permission granted</string>
+    <string name="common_message_wrong_path">Wrong path selected, try again</string>
+
+    <string name="error_message_device_id_null">Device ID is null</string>
+    <string name="error_message_generate_unique_key">Failed to generate a unique key</string>
+    <string name="error_message_enter_title">Please enter title</string>
+    <string name="error_message_enter_description">Please enter description</string>
+
+    <string name="message_storage_permission_sdk23">For Android 10 and below. To provide a seamless experience, \'Injector Origin\' requires access to your device storage. This permission is essential for saving and managing files related to skins and battle effects. Please grant storage permission to continue using all features of the app.</string>
+    <string name="message_inject_confirmation_backup">Are you sure that you want to backup %s?</string>
+    <string name="message_did_not_grant_permission">We\'ve notice that you didn\'t grant the access permission?</string>
+    <string name="message_exit">Are you sure you want to exit?</string>
+    <string name="message_request_submitted">Request submitted</string>
+    <string name="message_grant_permission">This app needs to access the Internal storage %s folder to perform a specific task. Please grant the necessary permission to continue. Click \"Use this folder\" on the next screen.</string>
+    <string name="message_finish_current_task">Please finish the current task.</string>
+    <string name="message_feedback_submission">You are allowed to submit once per day. If you wish to submit more frequently, you can watch ads to gain additional submission opportunities.</string>
+    <string name="message_open_ml">Are you sure you want to open MLBB?</string>
+    <string name="message_something_went_wrong">Something went wrong.</string>
+    <string name="message_poor_internet_connection">Poor internet connection</string>
+    <string name="message_notification_permission_rationale">Notification permission is needed to keep you informed with the injection process</string>
+    <string name="message_notification_permission">In Android 13 and above this app requires notification permission, this permission allows you to keep you informed with the injection process.</string>
+
+    <string name="common_text_allow">Allow</string>
+    <string name="common_text_backup">Backup</string>
+    <string name="common_text_cancel">Cancel</string>
+    <string name="common_text_clear">Clear</string>
+    <string name="common_text_close">Close</string>
+    <string name="common_text_copy">Copy</string>
+    <string name="common_text_donate">Donate</string>
+    <string name="common_text_grant">Grant</string>
+    <string name="common_text_grant_permission">Grant Permission</string>
+    <string name="common_text_granted_permission">Permission Granted</string>
+    <string name="common_text_cannot_use_folder">Cannot use this folder?</string>
+    <string name="common_text_how_to_use_shizuku">Don\'t know how to use Shizuku? Click here.</string>
+    <string name="common_text_inject">Inject</string>
+    <string name="common_text_enable_shizuku">Enable Shizuku</string>
+    <string name="common_text_use_shizuku_instead">Use Shizuku instead</string>
+    <string name="common_text_logger">Logger</string>
+    <string name="common_text_ok">OK</string>
+    <string name="common_text_skip">Skip</string>
+    <string name="common_text_submit">Submit</string>
+    <string name="common_text_no">No</string>
+    <string name="common_text_enhance_gaming">Enhance your gaming experience with us</string>
+    <string name="common_text_watch_ads">Watch Ads</string>
+    <string name="common_text_welcome">Welcome</string>
+    <string name="common_text_yes">Yes</string>
+
+    <string name="hint_package_name">Select package name</string>
+    <string name="hint_permission">Select permission</string>
+    <string name="hint_option">Select an option</string>
+    <string name="hint_enter_title">Enter your title</string>
+    <string name="hint_enter_description">Enter your description</string>
+    <string name="hint_user_id">User ID</string>
+    <string name="hint_server_id">Server ID</string>
+    <string name="hint_favorite_heroes">Select your favorite heroes</string>
+    <string name="hint_pick_hero">Pick hero</string>
+
+    <string name="menu_title_report_error">Report error</string>
+    <string name="menu_title_copy_log">Copy log</string>
+    <string name="menu_title_clear_all">Clear all</string>
+
+    <string name="menu_title_dashboard">Dashboard</string>
+    <string name="menu_title_heroes">Heroes</string>
+    <string name="menu_title_upgrade_skin">Skin Upgrade</string>
+    <string name="menu_title_effects">Effects</string>
+    <string name="menu_title_open_ml">Open MLBB</string>
+    <string name="menu_title_feedback">Feedback</string>
+    <string name="menu_title_settings">Settings</string>
+
+    <string name="menu_title_more">More menu</string>
+    <string name="menu_title_privacy_settings">Privacy settings</string>
+
+    <string name="menu_title_community">Community</string>
+    <string name="menu_title_social_links">Social links</string>
+
+    <string name="title_about">About</string>
+    <string name="title_android_eleven_above">Android 11 above tips</string>
+    <string name="title_android_version">Android version</string>
+    <string name="title_app_crashed">App crashed</string>
+    <string name="title_app_preference">App Preference</string>
+    <string name="title_cannot_use_folder">Can\'t use this folder?</string>
+    <string name="title_changelog">Changelog</string>
+    <string name="title_confirmation">Confirmation</string>
+    <string name="title_contact">Contact</string>
+    <string name="title_cpu_arch">CPU Arch</string>
+    <string name="title_dark_mode">Dark mode</string>
+    <string name="title_device">Device</string>
+    <string name="title_debugger">Debugger</string>
+    <string name="title_disclaimer">Disclaimer</string>
+    <string name="title_effect">Effect</string>
+    <string name="title_exit">Exit</string>
+    <string name="title_feedback">Feedback</string>
+    <string name="title_get_started">Get started</string>
+    <string name="title_graphics_res">Download HD Resources</string>
+    <string name="title_graphics_setup">Graphics Settings</string>
+    <string name="title_graphics_tip">Graphics tips</string>
+    <string name="title_heroes">Heroes</string>
+    <string name="title_hero_list">Hero list</string>
+    <string name="title_i_would_like">I would like to</string>
+    <string name="title_information">Information</string>
+    <string name="title_inject_logger">Inject Logger</string>
+    <string name="title_moonton_acknowledgement">Acknowledge of Moonton rights</string>
+    <string name="title_more_effects">More effects</string>
+    <string name="title_notice">Notice</string>
+    <string name="title_notification_permission">Notification permission</string>
+    <string name="title_open_ml">Open MLBB</string>
+    <string name="title_preparation">Preparation</string>
+    <string name="title_preference">Preference</string>
+    <string name="title_primary">Primary</string>
+    <string name="title_rate_us">Rate us</string>
+    <string name="title_recently_added">Recently added</string>
+    <string name="title_recommended_skin">Recommended Skins</string>
+    <string name="title_report_or_request">Report a bug or request a feature</string>
+    <string name="title_require_permission">Permission required</string>
+    <string name="title_see_all">See all</string>
+    <string name="title_secondary">Secondary</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_shizuku">Shizuku</string>
+    <string name="title_skin_pack">Skin Pack</string>
+    <string name="title_skin_upgrade">Skin Upgrade</string>
+    <string name="title_specification">Specification</string>
+    <string name="title_storage_permission">Storage permission</string>
+    <string name="title_please_note">Please Note</string>
+    <string name="app_changlog">What\'s new in this version?</string>
+    <string name="app_copyright_notice">© 2024 Elfilibustero. All rights reserved</string>
+    <string name="app_description">This app enhances your Mobile Legends: Bang Bang (MLBB) gaming experience by unlocking and upgrading visual skins and battle effects. It\'s designed to provide an enriched visual experience without affecting gameplay.</string>
+    <string name="app_disclaimer">Injector Origin modifies the visual aspects of Mobile Legends: Bang Bang (MLBB) by unlocking and upgrading skins and battle effects. These modifications are purely for enhancing the visual experience and do not impact gameplay mechanics or provide any competitive advantage.</string>
+    <string name="app_version">App version</string>
+    <string name="description_moonton_acknowledgement">Injector Origin respects the rights of Moonton, the developer of Mobile Legends: Bang Bang (MLBB). All trademarks and intellectual property related to MLBB are the property of Moonton.</string>
+    <string name="description_please_note">•Use Injector Origin at your own risk. Modifying the game may violate MLBB\’s terms of service and could result in penalties, including account suspension or banning.\n\n•Injector Origin is not affiliated with, endorsed by, or sponsored by Moonton, the developer of MLBB.\n\n•We strongly encourage supporting the developers by purchasing skins through official channels.</string>
+
+    <string name="dashboard_skin_collections">Skin Collections</string>
+    <string name="dashboard_effects">Effects</string>
+    <string name="error_template">Error %s</string>
+    <string name="inject_downloading_progress">Downloading: %1$d%%</string>
+    <string name="inject_injecting">Injecting %s</string>
+    <string name="inject_injecting_progress">Injecting: %1$d%%</string>
+    <string name="inject_confirmation">Are you sure that you want to inject %s?</string>
+    <string name="inject_completed">Inject completed</string>
+    <string name="inject_success_with">Successfully injected %s</string>
+    <string name="inject_title">Inject</string>
+
+    <string name="intro_agree_to_terms">Please agree to the Terms &amp; Conditions and Privacy Policy first.</string>
+    <string name="intro_agreeing_for_terms">We\'re excited to welcome you! By clicking the checkbox below you agree to our Terms &amp; Conditions and Privacy Policy. We are dedicated to ensuring you have a smooth and secure experience with our app. Let\'s start and enhance your gaming experience!</string>
+    <string name="intro_all_rights_moonton">All content and materials related to Mobile Legends: Bang Bang, including but not limited to the game itself, characters, logos, and all related artwork and intellectual property, are the property of Moonton. Injector Origin is an unofficial application and is not affiliated with, endorsed, sponsored, or specifically approved by Moonton or any of its affiliates. All rights to Mobile Legends: Bang Bang and its associated content are reserved by Moonton.</string>
+    <string name="intro_fix_cannot_use_folder">This is only required for Android 11 and above. You need to uninstall the updates of your \"Files\" app and temporarily disable the \"Files by Google\" app (if installed or if it\'s a system app).\n\nThis will allow Injector Origin to access the game directory. Go to Settings &gt; Apps &gt; App Management (this may vary depending on your device). If there are no updates, you can proceed anyway.</string>
+    <string name="intro_fix_cannot_use_folder2">Don\'t worry about this step, because you can re-enable or update the mentioned apps after you\'ve set up the permissions. We value your security, as does Google. However, for our app to work properly and to provide our best features, we need your permissions.</string>
+    <string name="intro_must_download_hd_resources">The in-game resources for all skins in a match. Without these resources, none of the skin models will be available during the match.</string>
+    <string name="intro_notification_message">You\'ll be unable to notify when injecting if access is denied. You can change the access settings via Settings &gt; App Management &gt; App Permissions &gt; Notification on your device.</string>
+    <string name="intro_select_one_hero">Please select atleast 1 hero</string>
+    <string name="intro_skip_shizuku">We\'ve noticed that you didn\'t grant the permission for Shizuku? Do you want to skip it for now?</string>
+    <string name="intro_smooth_not_supported">Smooth graphics are no longer supported. You must choose higher graphics settings.</string>
+    <string name="intro_mlbb_not_installed">It looks like the required game is not installed on your device. To proceed, please download and install the game from the Google Play Store.</string>
+
+    <string name="permission_primary_message">This is the default permission that requests access to storage (applicable to Android 11 and below, and possibly some higher versions).</string>
+    <string name="permission_primary_title">Primary Permission</string>
+    <string name="permission_secondary_message">Introduced as an alternative when the primary permission fails or displays restrictions on folder usage (likely applicable to Android 12 or newer).</string>
+    <string name="permission_secondary_title">Secondary Permission</string>
+    <string name="permission_shizuku_message">This is the final option available when both the primary and secondary permissions are ineffective, usable on Android 11 above</string>
+    <string name="permission_shizuku_title">Shizuku Permission</string>
+
+    <string name="preference_title_about">About</string>
+    <string name="preference_title_about_app">About app</string>
+    <string name="preference_title_application">Application</string>
+    <string name="preference_title_configure">Configure</string>
+    <string name="preference_title_contributors">Contributors</string>
+    <string name="preference_title_device">Device</string>
+    <string name="preference_title_dynamic">Material You</string>
+    <string name="preference_title_general">General</string>
+    <string name="preference_title_injector">Injector</string>
+    <string name="preference_title_interface">Interface</string>
+    <string name="preference_title_theme">Theme</string>
+    <string name="preference_title_theme_system">System default</string>
+    <string name="preference_title_theme_light">Light</string>
+    <string name="preference_title_theme_dark">Dark</string>
+    <string name="preference_title_permission">Storage Permission</string>
+    <string name="preference_title_system_information">System Information</string>
+    <string name="preference_title_storage">Permission</string>
+    <string name="preference_title_privacy">Privacy</string>
+    <string name="preference_title_vibrate">Setting vibrate</string>
+
+    <string name="preference_description_about_app">More about Injector Origin</string>
+    <string name="preference_description_application">General application preferences</string>
+    <string name="preference_description_contributors">List of contributors</string>
+    <string name="preference_description_device">Specifications of your Android device</string>
+    <string name="preference_description_dynamic">Use dynamic colors (requires restart)</string>
+    <string name="preference_description_injector">Configure injector</string>
+    <string name="preference_description_theme">Choose system theme for the app</string>
+    <string name="preference_description_permission">Select permission</string>
+    <string name="preference_description_vibrate">Vibrate when script is injected</string>
+</resources>
