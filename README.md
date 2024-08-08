@@ -1,6 +1,6 @@
 ## I Want to Contribute!
 
-Do you want to translate or improve Injector Origin into your favorite language?
+Interested in helping us localize Injector Origin for your region? Your contribution can greatly benefit other users in your country. Read on to learn how you can get started!
 
 ### <a name="lang-option1"></a> Option 1: The language file already exists in this repository, and I found an error or want to improve it
 
